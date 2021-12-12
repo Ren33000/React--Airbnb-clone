@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Airbnb clone: array's mapping in React 
+
+
+![Banner](https://github.com/Ren33000/React--Airbnb-clone/blob/master/src/Airbnb.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
